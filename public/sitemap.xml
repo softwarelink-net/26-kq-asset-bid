@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+  <!-- 1. 首页国资运营驾驶舱 (唯一包含 image) -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://26-kq-asset-bid.softwarelink.net/docs/assets/dashboard-preview.png</image:loc>
+      <image:title>绍兴柯桥经开区控股资产管理及智慧办公系统控制台预览</image:title>
+    </image:image>
+  </url>
+  <!-- 2. 公开招标公告全文页 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/tender</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 3. 用户登录鉴权页 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/login</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- 4. 园区不动产与固定资产全息台账 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/properties</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 5. 租赁合同管理与动态计费工坊 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/contracts</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 6. 智慧办公 OA 与“三重一大”审批 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/workflow-oa</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 7. 系统总控与等保安全审计 -->
+  <url>
+    <loc>https://26-kq-asset-bid.softwarelink.net/system</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
