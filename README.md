@@ -38,6 +38,8 @@ npm run dev
 - `npm run build`: 前端生产构建打包并输出到 dist 纯静态目录
 - `npm run preview`: 本地预览生产构建产物
 - `npm run lint`: 执行代码规范检查与 TypeScript 类型校验
+- `npm run screenshot`: 登录控制台并刷新 `docs/assets/dashboard-preview.png`
+- `npm run deploy`: 构建并上传至 R2（`allworld-sites/26-kq-asset-bid`）
 
 ### 目录结构
 ```text
@@ -45,6 +47,10 @@ npm run dev
 ├── docs/
 │   └── assets/
 │       └── dashboard-preview.png
+├── scripts/
+│   ├── build-sqlite.mjs
+│   ├── deploy-allworld.mjs
+│   └── screenshot-dashboard.mjs
 ├── public/
 │   ├── data/
 │   │   └── kqasset_database.sqlite
